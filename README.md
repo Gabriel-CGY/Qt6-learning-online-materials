@@ -1,2 +1,2 @@
 # Qt6-learning-online-materials
-Like the name of the repository
+Get the Qt6.4 examples .... it is public repository, you can type the command on Git Bash $ git clone git://code.qt.io/qt/qtdoc.git
